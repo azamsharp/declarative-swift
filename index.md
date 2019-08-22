@@ -9,4 +9,5 @@
 4. [Displaying Modal](/displaying-modal)
 5. [Displaying and Passing Data to the Modal from List](/displaying-passing-data-to-modal-from-list)
 6. [Implementing UpperCase Property Wrapper](/uppercase-property-wrapper)
+7. [Displaying Grid](/displaying-grid)
 
