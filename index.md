@@ -7,4 +7,5 @@
 2. [Populating a List](/populating-list)
 3. [Group List Items](/group-list-items)
 4. [Displaying Modal](/displaying-modal)
+5. [Displaying and Passing Data to the Modal from List](/displaying-passing-data-to-modal-from-list)
 
