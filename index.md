@@ -2,6 +2,11 @@
     #header {
     display:none; 
   }
+    
+section #title .credits.right {
+    display:none; 
+}
+    
   </style>
 
 [Home](http://www.declarative-swift.com)
