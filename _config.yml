@@ -1,4 +1,4 @@
 theme: jekyll-theme-midnight
 
 github:
-  repository_url: http://example.com
+  is_project_page: false
