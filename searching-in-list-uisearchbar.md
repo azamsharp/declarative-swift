@@ -49,7 +49,7 @@ struct SearchBar: UIViewRepresentable {
 ```
 
 
-```
+```swift
 struct ContentView: View {
     
     @State private var searchTerm: String = ""
