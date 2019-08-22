@@ -6,4 +6,5 @@
 1. [Searching in List Using UISearchBar](/searching-in-list-uisearchbar)
 2. [Populating a List](/populating-list)
 3. [Group List Items](/group-list-items)
+4. [Displaying Modal](/displaying-modal)
 
