@@ -1,3 +1,8 @@
+<style>
+    #header {
+    display:none; 
+  }
+  </style>
 
 [Home](http://www.declarative-swift.com)
 [SwiftUI Course](https://www.udemy.com/swiftui-declarative-interfaces-for-any-apple-device/?couponCode=DECL_SWIFT)
