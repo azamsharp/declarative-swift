@@ -1,3 +1,3 @@
 
 
-1. [Searching in List Using UISearchBar](/searching-in-list-uisearchbar)
+1. [Searching in List Using UISearchBar](/declarative-swift/searching-in-list-uisearchbar)
