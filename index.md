@@ -4,4 +4,5 @@
 [About](http://www.declarative-swift.com/about) 
 
 1. [Searching in List Using UISearchBar](/searching-in-list-uisearchbar)
+2. [Populating a List](/populating-list)
 
