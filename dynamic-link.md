@@ -1,3 +1,18 @@
+<style>
+    #header {
+    display:none; 
+  }
+    
+section #title .credits.right {
+    display:none; 
+}
+
+section #title .credits.left {
+    display:none; 
+}
+    
+  </style>
+
 ```swift
 
 import SwiftUI
